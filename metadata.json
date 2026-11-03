@@ -1,0 +1,6 @@
+{
+  "name": "تراز",
+  "description": "اپلیکیشن حسابداری فروشگاهی تراز",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
